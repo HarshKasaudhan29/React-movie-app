@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-movie-app/static/css/main.2796e057.css",
+    "main.js": "/React-movie-app/static/js/main.b081b710.js",
+    "static/media/boxicons.svg": "/React-movie-app/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/React-movie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/React-movie-app/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/React-movie-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/React-movie-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/React-movie-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/logo.png": "/React-movie-app/static/media/logo.11e067ef227d077f053f.png",
+    "index.html": "/React-movie-app/index.html",
+    "main.2796e057.css.map": "/React-movie-app/static/css/main.2796e057.css.map",
+    "main.b081b710.js.map": "/React-movie-app/static/js/main.b081b710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2796e057.css",
+    "static/js/main.b081b710.js"
+  ]
+}
